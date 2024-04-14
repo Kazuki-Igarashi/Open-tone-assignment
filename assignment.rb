@@ -9,6 +9,7 @@ def generate_palindrome(n)
   n
 end
 
+
 # ユーザーからの入力を受け取る
 puts "任意の数字を入力してください（1以外）："
 number = gets.chomp.to_i
