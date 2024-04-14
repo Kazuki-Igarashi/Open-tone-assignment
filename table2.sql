@@ -8,6 +8,7 @@ CREATE TABLE point_table (
     FOREIGN KEY (ID) REFERENCES user_name(ID)
 );
 
+
 INSERT INTO point_table (ID, 科目, 点数) VALUES
 (1, '国語', 100),
 (1, '理科', 60),
