@@ -7,6 +7,7 @@ CREATE TABLE user_name (
     名前 VARCHAR(255)
 );
 
+
 INSERT INTO user_name (ID, 受験番号, 名前) VALUES
 (1, 10, 'トム・デ・マルコ'),
 (2, 50, 'ピート・マクブリーン'),
